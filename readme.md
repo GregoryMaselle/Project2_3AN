@@ -1,6 +1,7 @@
 # Advanced Numerical Methods (3rd year Course) Project
 
-This Matlab code is used to calculate and display simulations for solutions to the problem described in proj2_3an_23.pdf
+This Matlab code is used to calculate and display simulations for solutions to the problem described in proj2_3an_23.pdf.
+The code uses implements both the Split-Step methods and Finite Differences methods for solving partial differential equations.
 
 ## Installation
 You will need to install Matlab to run this code (to my knowledge.) You can acquire a matlab license and subsequent software at https://www.mathworks.com/products/matlab.html.
@@ -18,3 +19,7 @@ You will need to install Matlab to run this code (to my knowledge.) You can acqu
 ## Usage
 
 Once Matlab is installed, you can simply open the project and run it as is.
+
+## Results
+
+This code along with its analysis (available on request) earned me a grade above 95%.
